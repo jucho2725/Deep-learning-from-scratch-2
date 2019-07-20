@@ -21,7 +21,11 @@ This is simple code work based on the book "Deep Learning from Scratch 2". ISBN 
 
 
 
-## Others
+## Things to know
+
+This repository is annotated and explained in Korean. There are few English version you can find in GitHub.
+
+
 
 Download link of trained weight file (used in Ch 6, 7)
 
